@@ -1,0 +1,12 @@
+{
+  "id": "pmo-website",
+  "name": "PMO Web Application",
+  "stage": "build",
+  "health": "amber",
+  "progress": 62,
+  "summary": "GitHub + Railway migration on track; remote mobile PR approval in UAT.",
+  "nextAction": "Finish mobile PR approval flow",
+  "location": "Railway",
+  "links": { "repo": "", "live": "" },
+  "updated": "2026-06-19T08:00:00Z"
+}
